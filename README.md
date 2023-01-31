@@ -1,4 +1,4 @@
-# Sample NodeJS application for Azure Pipelines docs
+# NodeJS application for Azure Pipelines docs
 
 # Updated but in feature branch
 
